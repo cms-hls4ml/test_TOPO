@@ -1,0 +1,3 @@
+[submodule "TOPO"]
+	path = TOPO
+	url = git@github.com:cms-hls4ml/TOPO.git
